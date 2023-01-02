@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9b28acf-cf30-4932-a5a5-fd574fa0a81a" name="Changes" comment="Init of project">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru_synergy/constructorTest/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru_synergy/constructorTest/Fraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru_synergy/constructorTest/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru_synergy/encapsulationTest/Fraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru_synergy/encapsulationTest/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru_synergy/encapsulationTest/Person.java" afterDir="false" />
+    <list default="true" id="d9b28acf-cf30-4932-a5a5-fd574fa0a81a" name="Changes" comment="Finished with constructors.">
+      <change afterPath="$PROJECT_DIR$/src/ru_synergy/interfaceTest/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru_synergy/interfaceTest/Journal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru_synergy/interfaceTest/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru_synergy/interfaceTest/Printable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPLearning/ru_synergy/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPLearning/ru_synergy/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPLearning/ru_synergy/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPLearning/ru_synergy/Point.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru_synergy/constructorTest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru_synergy/constructorTest/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -119,13 +113,26 @@
       <recent name="ru_synergy" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru_synergy.constructorTest.Main" />
       <module name="OOPLearning" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru_synergy.constructorTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru_synergy.interfaceTest.Main" />
+      <module name="OOPLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru_synergy.interfaceTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,6 +152,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
@@ -166,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672696714641</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Finished with constructors.">
+      <created>1672700363965</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672700363965</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,6 +197,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init of project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init of project" />
+    <MESSAGE value="Finished with constructors." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished with constructors." />
   </component>
 </project>
