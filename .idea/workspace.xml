@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9b28acf-cf30-4932-a5a5-fd574fa0a81a" name="Changes" comment="" />
+    <list default="true" id="d9b28acf-cf30-4932-a5a5-fd574fa0a81a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ru_synergy/constructorTest/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru_synergy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru_synergy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru_synergy/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru_synergy/Point.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +21,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -32,6 +40,7 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2JSmEkoTf2uqrKTnvapmSuC0gAf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
@@ -125,5 +134,16 @@
       <updated>1672079849053</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

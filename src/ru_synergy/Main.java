@@ -11,7 +11,8 @@ public class Main {
         System.out.println(rect1.getArea());
         rect2.maignify(1.5F);
         System.out.println(rect2.getArea());*/
-
+//        Расстояние между точками
+/*
         Point point1 = new Point();
         Point point2 = new Point();
         point1.input();
@@ -21,6 +22,15 @@ public class Main {
         System.out.println(point1.getDistance(point2));
         point1.move(100, 120);
         System.out.println(point1.getDistance(point2));
+*/
+
+        Double num = Double.valueOf(3.14f);
+        double numCopy = num.doubleValue();
+        System.out.println(num.toString());
+        String sNum = "1024";
+        Integer integer = Integer.parseInt(sNum);
+        int a = integer;
+        integer = a;
 
     }
 }
